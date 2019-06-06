@@ -12,7 +12,7 @@ export class AppComponent {
     {
       text: 'Videos',
       url: ''
-    },
+    }
     {
       text: 'Trust na Mídia',
       url: ''
