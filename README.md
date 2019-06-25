@@ -5,9 +5,9 @@
 Estamos disponibilizando para você um projeto Angular 7+ muito parecido com o que usamos aqui na Trust:  https://github.com/desafioTrust/desafio-candidato-dev-front
 
 PASSO A PASSO PARA REALIZAÇÃO DO TESTE
-Crie um do projeto do link acima no GitHub.com a partir. Você também deve adicionar o usuário **desafioTrust** como colaborador deste repositório privado, para que possamos fazer a avaliação.
+Você também deve adicionar o usuário desafioTrust como colaborador deste repositório privado, para que possamos fazer a avaliação.
 
-Execute as atividades abaixo, mostre seu potencial e ajude a gente a conhecer melhor o profissional que você é, construa uma aplicações com suas melhores práticas de código e arquitetura. As atividades 1, 2, 3 e 4 são para perfis Junior e Pleno; as posições Pleno e Sênior deverão responder todas as questões. **Boa sorte!**<br>
+Execute as atividades abaixo, mostre seu potencial e ajude a gente a conhecer melhor o profissional que você é! Construa aplicações com suas melhores práticas de código e arquitetura. As atividades 1, 2, 3 e 4 são para perfis Junior e Pleno. As posições Pleno e Sênior deverão responder todas as questões. **Boa sorte!**<br>
 
 
 **Configurações**<br>
