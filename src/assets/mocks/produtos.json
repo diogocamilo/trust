@@ -1,0 +1,36 @@
+[
+    {
+        "id": 2,
+        "codigo": 10,
+        "nome": "VERIFONE e265",
+        "maquininha": "/assets/ultra-2.png",
+        "modelo": "SLIM",
+        "preco": 119.8800,
+        "descricao": "Equipamento móvel sem impressora. Não depende de pareamento com outros equipamentos.",
+        "ativo": 1,
+        "idCategoria": 1,
+        "codigoCategoria": "MAQUININHA",
+        "nomeCategoria": "Maquininha",
+        "descricaoCategoria": "Maquininha TrustPay",
+        "temDesconto": false,
+        "desconto": "0%",
+        "precoComDesconto": 119.8800
+    },
+    {
+        "id": 3,
+        "codigo": 7,
+        "nome": "VERIFONE C680",
+        "maquininha": "/assets/slim-2.png",
+        "modelo": "ULTRA",
+        "preco": 479.8800,
+        "descricao": "Equipamento portátil com tela touch, Impressora, bateria de longa duração e conexões 3G e WiFi.",
+        "ativo": 1,
+        "idCategoria": 1,
+        "codigoCategoria": "MAQUININHA",
+        "nomeCategoria": "Maquininha",
+        "descricaoCategoria": "Maquininha TrustPay",
+        "temDesconto": false,
+        "desconto": "0%",
+        "precoComDesconto": 479.8800
+    }
+]

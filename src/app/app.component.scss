@@ -1,13 +1,7 @@
-.header {
-  background-color: #ddd;
-  padding: 1rem 20%;
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
-}
 
-.main {
-  padding: 1rem 20%;
+html {    
+  width: 100%;
+  position: relative;
 }
 
 .main h1,
@@ -15,25 +9,11 @@
   text-align: center;
 }
 
-.card {
-  width: 50%;
-  border: 1px solid #e0e0e0;
-  border-radius: 5px;
-  padding: 1rem;
-  display: inline-block;
 
-  > div {
-    display: flex;
-
-    > * {
-      width: 50%;
-    }
-  }
-}
 
 .button {
   border: none;
-  background-color: green;
+  background-color: #63B764;
   padding: 1rem;
   color: white;
   display: block;
@@ -43,7 +23,7 @@
 }
 
 #rodape {
-  background-color: green;
+  background-color: #63B764;
   padding: 1rem 20%;
   display: flex;
   align-items: start;

@@ -1,0 +1,25 @@
+<div class="faixa-rodape">
+  <p>Trust é tudo, menos banco. Soluções financeiras 100% digitais e integradas</p>
+</div>
+<div class="rodape">
+  <div class="row">
+    <div class="col-sm conteudo" *ngFor="let i of conteudos">
+      <h4 class="titulo">{{i.titulo}}</h4>
+      <ul aria-hidden="false">
+        <li *ngFor="let link of i.links">
+          <a title="{{link.texto}}" href="{{link.url}}">{{link.texto}}</a>
+        </li>
+      </ul>
+    </div>
+    <div class="conteudo social">
+      <a title="Trusthub" class="logo">
+        <img src="/assets/trust-white.svg">
+      </a>
+      <div class="social-icones">
+          <a *ngFor="let r of redes" [title]="r.titulo" [href]="r.url">
+            <img [src]="r.imagem">
+          </a>
+      </div>
+    </div>
+  </div>
+</div>

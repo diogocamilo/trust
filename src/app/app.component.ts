@@ -1,7 +1,7 @@
 import { Component } from '@angular/core';
 
-@Component({
-  selector: 'app-root',
+@ Component({
+  selector: 'trust-root',
   templateUrl: './app.component.html',
   styleUrls: ['./app.component.scss']
 })
@@ -12,7 +12,7 @@ export class AppComponent {
     {
       text: 'Videos',
       url: ''
-    }
+    },
     {
       text: 'Trust na Mídia',
       url: ''

@@ -1,0 +1,75 @@
+
+
+
+
+
+  .faixa-rodape {
+    background-color: #e0e0e0;
+    text-align: center;
+    padding: 1rem;
+  }
+
+  .rodape {
+    background-color: #63B764;
+    padding: 1rem 20%;
+    display: flex;
+    align-items: start;
+    justify-content: space-between;
+    color: white; 
+    
+    ul {
+      list-style: none;
+      padding: 0;
+    }
+
+    a {
+      display: block;
+      padding: .5rem .3rem;
+      text-decoration: none;
+      color: white;
+    }
+    
+    
+    
+  }
+
+@media screen and (max-width: 575px){
+  .rodape {
+    padding: 0%;
+    .conteudo {
+      width: 100%;
+
+      h4, ul {
+        padding: .5em 30px;
+      }
+
+      ul {
+        cursor: pointer;
+
+        a {
+          cursor: pointer;
+        }
+      }
+
+      h4 {
+        box-shadow: 1px 2px 7px -4px black;
+      }
+
+      &.social {
+        display: flex;
+        
+        .logo {
+          padding: 0.5em 3em;
+        }
+        
+        .social-icones {
+          right: 2em;
+          position: absolute;
+          width: 150px;
+          display: flex;
+        }
+      }
+    }
+  }
+}
+  

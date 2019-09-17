@@ -1,0 +1,20 @@
+<trust-header></trust-header>
+<div class="container">
+  <div class="">
+    <h1>
+      NOSSAS MAQUINAS
+    </h1>
+    <p>
+      Escolha uma de nossas maquininhas para dar mais agilidade e segurança pro seus negócio
+    </p>
+  </div>
+
+  <div class="row">
+    <trust-card-produto 
+      class="col-sm" 
+      *ngFor="let i of planos" 
+      [produto]="i">
+    </trust-card-produto>
+  </div>
+</div>
+<trust-footer></trust-footer>

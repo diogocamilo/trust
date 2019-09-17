@@ -1,0 +1,31 @@
+.card {
+    .card-header {
+        display: flex;
+        padding-top: 50px;
+
+        img {    
+            width: 50%;
+            height: 70%;
+        }
+
+        .preco {
+            text-align: center;
+            font: Bold 38px/17px Montserrat;
+            letter-spacing: 0;
+            color: #63B764;
+            opacity: 0.88;
+            line-height: 40px;
+        }
+    }
+
+    .button {
+        border: none;
+        background-color: #63B764;
+        padding: 1rem;
+        color: white;
+        display: block;
+        width: 100%;
+        margin-bottom: 10px;
+        border-radius: 5px;
+      }
+}
